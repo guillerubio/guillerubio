@@ -8,7 +8,7 @@
 
 <font size="3">   <img src="https://media.giphy.com/media/37Uer6MbSlFgA/giphy.gif?cid=ecf05e473rjroxohv9wrwruan62msy6clvxq734bxsoi7ne7&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30" height="30">  I’m currently working on my **[project portfolio website](https://www.william-rubio.com/projects/portfolio)**</font>
 
-<font size="3">   <img src="https://media.giphy.com/media/3hoLIVAJYkz6T0Ichp/giphy.gif?cid=ecf05e47pyuythcu6jsa7sqv20eqq78xfpc0yw7wseu8h4nn&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30" height="30"> I’m learning about **Neural Networks, sometimes with TensorFlow**</font>
+<font size="3">   <img src="https://media.giphy.com/media/3hoLIVAJYkz6T0Ichp/giphy.gif?cid=ecf05e47pyuythcu6jsa7sqv20eqq78xfpc0yw7wseu8h4nn&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30" height="30"> I’m learning about **Neural Networks, mostly with TensorFlow and NumPy**</font>
 
 <font size="3">   <img src="https://media.giphy.com/media/ckbxjhCqXqJYYT1JHc/giphy.gif?cid=ecf05e47rgdgteymmo2g72y7rrqy9r7q4msxjq2au9jk5k9u&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30" height="30"> All of my projects, and more stuff about me, is available at [https://www.william-rubio.com](https://www.william-rubio.com)</font>
 
