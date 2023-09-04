@@ -6,7 +6,7 @@
 
 <font size="3">   <img src="https://media.giphy.com/media/kOe46rvaOLg8smLgs5/giphy.gif?cid=ecf05e47dj4xvb16ptlhcqakw9of9g3300tbdkgfzx61e4of&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30" height="30"> I'm interested in **Deep Learning**, **Full-Stack Development**, and **CS Research**.</font>
 
-<font size="3">   <img src="https://media.giphy.com/media/37Uer6MbSlFgA/giphy.gif?cid=ecf05e473rjroxohv9wrwruan62msy6clvxq734bxsoi7ne7&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30" height="30">  I’m currently working on the **[Procedural Landing Page](https://tryprocedural.com)** </font>
+<font size="3">   <img src="https://media.giphy.com/media/37Uer6MbSlFgA/giphy.gif?cid=ecf05e473rjroxohv9wrwruan62msy6clvxq734bxsoi7ne7&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30" height="30">  I’m currently working on the [**Procedural Landing Page**](https://tryprocedural.com) </font>
 
 <font size="3">   <img src="https://media.giphy.com/media/3hoLIVAJYkz6T0Ichp/giphy.gif?cid=ecf05e47pyuythcu6jsa7sqv20eqq78xfpc0yw7wseu8h4nn&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30" height="30"> I’m learning about **Neural Networks, mostly with TensorFlow, PyTorch and NumPy**</font>
 
